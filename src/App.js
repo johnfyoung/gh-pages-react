@@ -1,9 +1,4 @@
-import {
-  HashRouter as Router,
-  Route,
-  Link,
-  HashRouter,
-} from "react-router-dom";
+import { HashRouter, Route, Link } from "react-router-dom";
 import "./App.css";
 
 import PageHome from "./PageHome";
